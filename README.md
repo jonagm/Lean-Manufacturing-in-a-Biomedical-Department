@@ -1,6 +1,18 @@
 # Lean Manufacturing in a Biomedical Department
 Project that helped improve bottlenecks in equipment review activities, task assignment, and organization for social service and professional internship members using Lean Manufacturing tools and PowerBI
 
+
+## **Important note: The dataset is in spanish**
+
+## Page 1: Waste Identification
+![image](https://github.com/user-attachments/assets/000b3891-837a-457d-b64e-9db3dd7d86ef)
+
+## Page 2: Failure log
+![image](https://github.com/user-attachments/assets/c9e4ed7d-a0b5-4088-9ac3-ac8cfbd2f6f6)
+
+## Page 3: Metrics
+![image](https://github.com/user-attachments/assets/d3d86977-0d57-4cd0-b926-b161616d9748)
+
 ## FOCUS
 This project focused on four key principles:
 1.	**Waste Elimination (Muda Method)**: Focused on eliminating activities that do not add value to the process.
@@ -28,16 +40,8 @@ To tackle inefficiency in the biomedical department, the "Lean Manufacturing" sy
 
 •	**Detection of Knowledge Gaps**: Deficiencies in staff knowledge of certain medical equipment were identified, highlighting the need for targeted training programs.
 
-## **Important note: The dataset is in spanish**
 
-## Page 1: Waste Identification
-![image](https://github.com/user-attachments/assets/000b3891-837a-457d-b64e-9db3dd7d86ef)
 
-## Page 2: Failure log
-![image](https://github.com/user-attachments/assets/c9e4ed7d-a0b5-4088-9ac3-ac8cfbd2f6f6)
-
-## Page 3: Metrics
-![image](https://github.com/user-attachments/assets/d3d86977-0d57-4cd0-b926-b161616d9748)
 
 
 
