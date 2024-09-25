@@ -28,6 +28,8 @@ To tackle inefficiency in the biomedical department, the "Lean Manufacturing" sy
 
 •	**Detection of Knowledge Gaps**: Deficiencies in staff knowledge of certain medical equipment were identified, highlighting the need for targeted training programs.
 
+## **Important note: The dataset is in spanish**
+
 ## Page 1: Waste Identification
 ![image](https://github.com/user-attachments/assets/000b3891-837a-457d-b64e-9db3dd7d86ef)
 
